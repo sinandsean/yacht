@@ -1,7 +1,7 @@
 import React from 'react';
 import Main from './Main';
 
-function App() {
+function App(): React.ReactElement {
   return <Main />;
 }
 
